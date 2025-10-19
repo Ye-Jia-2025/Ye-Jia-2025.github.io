@@ -702,9 +702,29 @@ pre>code {
     }
 }
 
+
 .shallow-bg {
     /* background-image: url("images/background/background1.JPG"); */
     background-image: url("images/background/background_hkust_2.jpg");
+}
+
+.deep-bg {
+    background-image: url("images/background/background2.JPG");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center
